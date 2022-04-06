@@ -21,14 +21,14 @@
 </br>
 </br>
 
-# Olá, eu sou Gabriel Henrique! <p>aka Bakemono7K <img src="Assets/java_logo.png" width="40px"></h2>
+# Olá, eu sou Gabriel Henrique! <p>aka Bakemono7K  <img src="Assets/java_logo.png" width="40px"></h2>
 ### Sobre mim:
 
 <div style="display: inline_block"  >
-<img align="right" width="200" height="270" style="border-radius:100px;" src="Assets/bonfire.gif" />
+<img align="right" width="290" height="200" style="border-radius:100px;" src="Assets/b16f3c20c8adfeb4791a878fcb4db1c4.gif" />
 <p> - 👨‍🎓 Estudante de Java </p>
 <p> - 🎯 Interesse: Tenho como sonho me especializar em BackEnd e ingressar no mercado de trabalha como desenvolvedor java</b>. </p>
-<p> - 👹 Curto muito cultura japonesa e consumo muito hip hop </p>
+<p> - 👹 Curto muito cultura japonesa e também consumo muito hip hop </p>
 </div>
 
 </br>
@@ -62,7 +62,7 @@
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mateusaraujo996@gmail.com">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/otaldohud"> 
+    <a href="https://www.linkedin.com/in/gabriel-henrique-7b18131a2"> 
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/mateusaraujobarros/">
     </a>
 </p>
