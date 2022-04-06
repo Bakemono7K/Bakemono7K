@@ -25,7 +25,7 @@
 ### Sobre mim:
 
 <div style="display: inline_block"  >
-<img align="right" width="290" height="200" style="border-radius:100px;" src="Assets/b16f3c20c8adfeb4791a878fcb4db1c4.gif" />
+<img align="right" width="290" height="200" style="border-radius:100px;" src="Assets/abluble.gif" />
 <p> - 👨‍🎓 Estudante de Java </p>
 <p> - 🎯 Interesse: Tenho como sonho me especializar em BackEnd e ingressar no mercado de trabalha como desenvolvedor java</b>. </p>
 <p> - 👹 Curto muito cultura japonesa e também consumo muito hip hop </p>
@@ -36,12 +36,6 @@
 ## Minhas skills :nerd_face:
 <div align="center">
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
