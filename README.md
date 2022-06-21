@@ -25,7 +25,6 @@
 ### Sobre mim:
 
 <div style="display: inline_block"  >
-<img align="right" width="290" height="200" style="border-radius:100px;" src="Assets/abluble.gif" />
 <p> - 👨‍🎓 Estudante de Java </p>
 <p> - 🎯 Interesse: Tenho como sonho me especializar em BackEnd e ingressar no mercado de trabalha como desenvolvedor java</b>. </p>
 <p> - 👹 Curto muito cultura japonesa e também consumo muito hip hop </p>
